@@ -74,5 +74,5 @@ $ ruby temp-url-key.rb raykao 123456789102 aildafju3412@!398123sakfjie
 2. [Set Account TempURL Metadata Key (Rackspace Docs)](http://docs.rackspace.com/files/api/v1/cf-devguide/content/Set_Account_Metadata-d1a4460.html)
 
 ## Credits
-- @krames - [Original gist](https://gist.github.com/krames/6224358)
-- @raykao - [Repository owner](https://github.com/PeopleAndCode/rackspace_cloudfiles_temp_url_key)
+@krames - [Original gist](https://gist.github.com/krames/6224358)
+@raykao - [Repository owner](https://github.com/PeopleAndCode/rackspace_cloudfiles_temp_url_key)
