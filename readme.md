@@ -7,7 +7,9 @@
 3. [Installation](#installation)
 4. [Running the script](#running-the-script)
     - [With Environment Variables](#1a-environment-variables)
+        -[Example](#example)
     - [With Parameter Passing](#1b-passing-paramters)
+        -[Example](#example-1)
 5. [Other documentation](#other-documentation)
 6. [Credits](#credits)
 
@@ -36,6 +38,7 @@ This ````temp_url_key```` only needs to be setup once, by setting up the ````X-A
 1. Download or clone files to any directory
 
 ````shell
+# clone the repository
 $ git clone git@github.com:PeopleAndCode/rackspace_cloudfiles_temp_url_key.git
 
 # Run bundle to install dependencies
