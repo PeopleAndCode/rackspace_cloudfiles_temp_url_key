@@ -7,9 +7,9 @@
 3. [Installation](#installation)
 4. [Running the script](#running-the-script)
     - [With Environment Variables](#1a-environment-variables)
-        -[Example](#example)
+        - [Example](#example)
     - [With Parameter Passing](#1b-passing-paramters)
-        -[Example](#example-1)
+        - [Example](#example-1)
 5. [Other documentation](#other-documentation)
 6. [Credits](#credits)
 
