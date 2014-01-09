@@ -75,4 +75,4 @@ $ ruby temp-url-key.rb raykao 123456789102 aildafju3412@!398123sakfjie
 
 ## Credits
 - @krames - [Original gist](https://gist.github.com/krames/6224358)
-- @raykao - [Repository Owner](https://github.com/PeopleAndCode/rackspace_cloudfiles_temp_url_key)
+- @raykao - [Repository owner](https://github.com/PeopleAndCode/rackspace_cloudfiles_temp_url_key)
