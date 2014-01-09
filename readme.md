@@ -42,7 +42,7 @@ You have set the following Environment Variables:
 
 ````
 # run script
-$ ruby temp-url-key.rb
+$ ruby set-temp-key.rb
 ````
 
 ### 1b. Passing in parameters
@@ -53,7 +53,7 @@ Alternatively, you can run the script in a termnial and pass in your Rackspace U
 
 ````
 # command format example
-$ruby temp-url-key.rb username apikey temp_url_key region
+$ruby set-temp-key.rb username apikey temp_url_key region
 ````
 
 #### Example
@@ -65,7 +65,7 @@ $ruby temp-url-key.rb username apikey temp_url_key region
 
 ````
 # run script
-$ ruby temp-url-key.rb raykao 123456789102 aildafju3412@!398123sakfjie
+$ ruby set-temp-key.rb raykao 123456789102 aildafju3412@!398123sakfjie
 ````
 
 ## Other Docs
